@@ -1,4 +1,4 @@
-# Nome do meu projeto
+# Jogo de Adivinhação - Python
 
 jogo para aprender os recursos fundamentais do Python 3
 
