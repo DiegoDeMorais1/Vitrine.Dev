@@ -1,6 +1,6 @@
 # Nome do meu projeto
 
-Rápida descrição do objetivo de fazer esse projeto
+jogo para aprender os recursos fundamentais do Python 3
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
